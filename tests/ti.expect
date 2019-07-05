@@ -1,0 +1,27 @@
+Welcome to ASCII sudoku!
+
+29751-483
+54198--76
+83674--15
+9--2---68
+45867--92
+6728--154
+385127649
+1--3958--
+729--8531
+
+Successfully put 6 in the cell (0, 5)
+Try filling cell (1,6)
+Cell (1,6) could have values 2.
+
+297516483
+541983276
+836742915
+913254768
+458671392
+672839154
+385127649
+164395827
+729468531
+
+Congratulations!  You solved the puzzle!
